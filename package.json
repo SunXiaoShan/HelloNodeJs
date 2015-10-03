@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
+  },
+  "repository" : {
+    "url" : "https://github.com/SunXiaoShan/HelloNodeJs.git"
   }
 }
